@@ -1,5 +1,3 @@
 ///* HotmixParts Styles 8///
 
-h1 {
-    color: blue;
-}
+This is the reo for HotmixParts.com a Stansteel division.
